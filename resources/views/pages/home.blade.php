@@ -59,7 +59,7 @@
                     </div>
                     <div class="d-flex justify-content-center mt-4">
                         <div class="col-12 col-md-10 text-center">
-                            <h5 class="text-bold">{{__('Premium & Private content')}}</h5>
+                            <h5 class="text-bold">{{__('AHTESHAM NOOR')}}</h5>
                             <span>{{__('Enjoy high quality content, made for you and the ones like you.')}} </span>
                         </div>
                     </div>
