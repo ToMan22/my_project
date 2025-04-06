@@ -1,0 +1,3 @@
+-- add membership default price
+INSERT INTO `settings` (`id`, `key`, `display_name`, `value`, `details`, `type`, `order`, `group`) VALUES (NULL, 'site.membership_price', 'Membership Price', '200', NULL, 'text', '3', 'Site');
+INSERT INTO `settings` (`id`, `key`, `display_name`, `value`, `details`, `type`, `order`, `group`) VALUES (NULL, 'site.membership_creator_share', 'Membership Creator Commission Share', '65', NULL, 'text', '3', 'Site');
